@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4f401e16c2bc04f83a205e12357ad373
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hiderPref: {fileID: 130118, guid: 3a37bb7f0f3254d05bfced405bc3fc2a, type: 2}
+  - finderPref: {fileID: 189988, guid: b5db9a630f14947cab7a7aa4f343dc58, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
